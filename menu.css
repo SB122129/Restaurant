@@ -1,0 +1,181 @@
+
+body{
+    background-color: black;
+}
+.bgwrapper{
+    background-image: url("food.jpg");
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+ 
+}
+a.nav-link:link, a.nav-link:active, a.nav-link:hover {
+    color: rgb(188, 220, 25);
+    font-size: 18px;
+    
+}
+#nav-link{
+    color: rgb(242, 255, 1);
+}
+#nav-links{
+    color: rgb(242, 255, 1);
+    font-size: 35px;
+}
+.fa-search{
+    color: rgb(242, 255, 1);
+    font-size: 25px;
+    padding-right: 1em;
+}
+.slogan{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 247, 0);
+    flex-wrap: wrap-reverse;
+    padding-top: 180px;
+    padding-bottom: 170px;
+    font-style: italic;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+  overflow-x: hidden;
+}
+@-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #000fe6, 0 0 40px #e60073, 0 0 50px #0400e6, 0 0 60px #e60073, 0 0 70px #e60073;
+    }
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+  }
+   .bg .card{
+    border: none;
+    background-color:bisque;
+    width: 80rem;
+    padding-top: 102px;
+    padding-bottom: 102px;
+  }
+.card-text{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    text-shadow: 2px 2px 5px red;
+}
+#card-title{
+    color: rgb(12, 12, 12);
+    font-size: 40px;
+    text-shadow: 2px 2px 5px red;
+}
+.bg{
+    background-color:bisque;
+}
+  .section-title {
+    text-align:center;
+    color: yellow;
+    padding: 2rem;
+    padding-top: 5rem;
+    }
+    .section-title2 {
+        text-align:center;
+        color: rgb(0, 0, 0);
+        padding: 2rem;
+        padding-top: 5rem;
+        text-shadow: 2px 2px 5px red;
+        }
+.form{
+    
+    background-color: darkblue;
+    border-radius: 20px;
+    padding: 20px;
+    width: 22rem;
+}
+.form-label{
+    color: yellow;
+    font-size: large;
+}
+.form-control {
+    padding:5px; 
+    border:2px solid yellow; 
+    -webkit-border-radius: 1px;
+    border-radius: 1px;
+    background-color: darkblue;
+    color: yellow;
+    
+}
+#tablehead{
+color: yellow;
+border-style: solid;
+border-color: yellow;
+}
+.bg3{
+    background-color: khaki;
+}
+
+.card{
+    border-style: none;
+    width: 20rem;
+    background-color: khaki;
+    text-shadow: 2px 2px 5px red;
+}
+.bg2{
+    background-color: darkblue;
+    
+}
+#menutable{
+    color: yellow;
+    border-style: solid;
+    border-color: yellow;
+}
+#menubtn{
+    border-style: dashed;
+    border-color: black;
+
+}
+
+.footer{
+    margin: 5em 0em 1em 0em;
+}
+.footer .container{
+    padding-left: 0
+} 
+.footerTitles{
+    color: yellow;
+}
+.wrapper {
+    padding: 1em 2em;
+} 
+li{
+    list-style-type: none;
+}
+.quicklinks{
+    text-decoration: none;
+    color: yellow;
+    font-size: 19px;
+
+}
+.wrapper .bi-facebook{
+    color: yellow;
+    font-size: 20px;
+    padding-left: 1em;
+}
+.bi-twitter{
+    color: yellow;
+    font-size: 20px;
+    padding-left: 1em;
+}
+.bi-instagram{
+    color: yellow;
+    font-size: 20px;
+    padding-left: 1em;
+}
+.bi-youtube{
+    color: yellow;
+    font-size: 20px;
+    padding-left: 1em;
+}
+
+
+
+.footers{
+    font-size: 14px;
+    color: yellow;
+}
